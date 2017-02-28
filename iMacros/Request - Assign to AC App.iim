@@ -1,9 +1,0 @@
-﻿VERSION BUILD=9030808 RECORDER=FX
-TAB T=1
-URL GOTO=http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/wd/Object/Open.rails?class_name=RequestManagement.Request&key=4cd21430-24cb-4a22-bccb-e0126f0c1340&page_size=50
-TAG POS=1 TYPE=LI ATTR=TXT:Add<SP>Assignment
-TAG POS=1 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
-TAG POS=1 TYPE=DIV ATTR=TXT:AC<SP>Application<SP>Support
-TAG POS=2 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
-TAG POS=1 TYPE=DIV ATTR=TXT:AC<SP>App<SP>Support<SP>Unassigned
-TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:mainForm ATTR=ID:mainForm-SaveButton
