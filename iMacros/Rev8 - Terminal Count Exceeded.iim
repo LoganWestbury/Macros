@@ -1,0 +1,20 @@
+﻿VERSION BUILD=9030808 RECORDER=FX
+TAB T=1
+URL GOTO=http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/wd/object/create.rails?class_name=IncidentManagement.Incident&lifecycle_name=NewProcess1111
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-Title CONTENT=User<SP>called<SP>up<SP>asking<SP>why<SP>they<SP>couldn't<SP>log<SP>into<SP>Rev8.<SP><SP>"Terminal<SP>count<SP>exceeded"
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=User<SP>called<SP>up<SP>asking<SP>why<SP>they<SP>couldn't<SP>log<SP>into<SP>Rev8.<SP><SP>"Terminal<SP>count<SP>exceeded"
+TAG POS=5 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Low
+TAG POS=7 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:P3
+TAG POS=6 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Phone
+TAG POS=4 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=13 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=14 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=1 TYPE=SPAN ATTR=TXT:Maximum<SP>User<SP>Limit<SP>Error
+TAG POS=1 TYPE=INPUT:BUTTON FORM=ID:mainForm ATTR=ID:mainForm-ApplyButton
+TAG POS=1 TYPE=LI ATTR=TXT:Assign<SP>To<SP>Me
+TAG POS=1 TYPE=LI ATTR=TXT:Resolve
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=Informed<SP>user<SP>that<SP>"Terminal<SP>Count<SP>Exceeded"<SP>happens<SP>when<SP>there<SP>is<SP>more<SP>users<SP>trying<SP>to<SP>log<SP>in<SP>than<SP>there<SP>is<SP>licenses<SP>for.<BR><BR>Advised<SP>user<SP>to<SP>just<SP>keep<SP>trying<SP>to<SP>log<SP>in<SP>as<SP>they<SP>will<SP>get<SP>in<SP>eventually.<BR><BR>Closing<SP>Case,<SP>Issue<SP>Resolved
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:mainForm ATTR=ID:mainForm-SaveButton
