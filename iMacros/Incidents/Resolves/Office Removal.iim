@@ -1,0 +1,21 @@
+﻿VERSION BUILD=9030808 RECORDER=FX
+TAB T=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-Title CONTENT=User<SP>called<SP>asking<SP>about<SP>the<SP>Microsoft<SP>Office<SP>removal
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-CategoryTitleDisplay CONTENT=
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=User<SP>called<SP>asking<SP>about<SP>the<SP>Microsoft<SP>Office<SP>removal<SP>from<SP>their<SP>computer.
+TAG POS=5 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Low
+TAG POS=1 TYPE=SPAN ATTR=CLASS:dropdownFrame<SP>inputRequired&&POPUP:mainForm-_IncidentSource-listRowPopup&&PARAMS:{"class_name":<SP>"IncidentManagement._IncidentSource",<SP>"key":<SP>""}&&TXT:
+TAG POS=6 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Phone
+TAG POS=4 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=18 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=21 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=1 TYPE=SPAN ATTR=TXT:Office<SP>Removal<SP>Issue
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-_Response1 CONTENT=NA
+TAG POS=1 TYPE=DIV ATTR=ID:contentTitle
+TAG POS=1 TYPE=INPUT:BUTTON FORM=ID:mainForm ATTR=ID:mainForm-ApplyButton
+TAG POS=1 TYPE=LI ATTR=TXT:Assign<SP>To<SP>Me
+TAG POS=1 TYPE=LI ATTR=TXT:Resolve
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=Informed<SP>user<SP>that<SP>their<SP>branch<SP>accountant<SP>and<SP>franchise<SP>accountant<SP>were<SP>both<SP>given<SP>a<SP>list<SP>of<SP>users<SP>who<SP>were<SP>to<SP>have<SP>the<SP>Office<SP>license<SP>revoked.<SP><BR>If<SP>they<SP>need<SP>to<SP>have<SP>access<SP>to<SP>Office<SP>again<SP>they<SP>will<SP>have<SP>to<SP>go<SP>through<SP>their<SP>branch<SP>or<SP>franchise<SP>accountant.<SP>
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:mainForm ATTR=ID:mainForm-SaveButton
