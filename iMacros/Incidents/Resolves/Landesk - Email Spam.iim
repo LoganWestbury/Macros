@@ -1,0 +1,18 @@
+﻿VERSION BUILD=9030808 RECORDER=FX
+TAB T=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-Title CONTENT=User<SP>called<SP>to<SP>ask<SP>about<SP>the<SP>influx<SP>of<SP>emails<SP>from<SP>the<SP>IT<SP>notifications<SP>account.
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=User<SP>called<SP>to<SP>ask<SP>about<SP>the<SP>influx<SP>of<SP>emails<SP>from<SP>the<SP>IT<SP>notifications<SP>account.<SP><BR>These<SP>are<SP>the<SP>emails<SP>that<SP>get<SP>sent<SP>out<SP>whenever<SP>an<SP>incident<SP>or<SP>request<SP>is<SP>made<SP>on<SP>Landesk.
+TAG POS=5 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Low
+TAG POS=6 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Phone
+TAG POS=4 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=9 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=1 TYPE=SPAN ATTR=TXT:Landesk
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-_Response1 CONTENT=Landesk<SP>Emails
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-_Response2 CONTENT=NA
+TAG POS=1 TYPE=INPUT:BUTTON FORM=ID:mainForm ATTR=ID:mainForm-ApplyButton
+TAG POS=1 TYPE=LI ATTR=TXT:Assign<SP>To<SP>Me
+TAG POS=1 TYPE=LI ATTR=TXT:Resolve
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=Informed<SP>user<SP>the<SP>emails<SP>are<SP>from<SP>tickets<SP>that<SP>have<SP>been<SP>created<SP>in<SP>the<SP>past.<SP>These<SP>were<SP>sent<SP>out<SP>due<SP>to<SP>the<SP>Landesk<SP>update<SP>that<SP>was<SP>rolled<SP>out<SP>on<SP>the<SP>night<SP>of<SP>07/03/2017<SP>that<SP>caused<SP>the<SP>issues.<SP>User<SP>can<SP>delete<SP>the<SP>emails<SP>if<SP>they<SP>wish.
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:mainForm ATTR=ID:mainForm-SaveButton
