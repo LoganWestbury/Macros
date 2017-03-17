@@ -1,6 +1,5 @@
 ﻿VERSION BUILD=9030808 RECORDER=FX
 TAB T=1
-URL GOTO=http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/wd/object/create.rails?class_name=IncidentManagement.Incident&lifecycle_name=NewProcess1111
 TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-Title CONTENT=User<SP>requires<SP>their<SP>Active<SP>Directory<SP>account<SP>unlocked
 TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=User<SP>is<SP>locked<SP>out<SP>of<SP>the<SP>domain<SP>and<SP>requires<SP>unlocked<SP>on<SP>Active<SP>Directory.<BR><BR>
 TAG POS=5 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
