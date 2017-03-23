@@ -1,0 +1,18 @@
+﻿VERSION BUILD=9030808 RECORDER=FX
+TAB T=1
+URL GOTO=http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/wd/object/create.rails?class_name=IncidentManagement.Incident&lifecycle_name=NewProcess1111
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:mainForm ATTR=ID:mainForm-Title CONTENT=User<SP>requires<SP>their<SP>ACE<SP>/<SP>TMS<SP>portal<SP>account<SP>unlocked
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=User<SP>requires<SP>their<SP>ACE<SP>/<SP>TMS<SP>portal<SP>account<SP>unlocked
+TAG POS=5 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Low
+TAG POS=6 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=1 TYPE=DIV ATTR=TXT:Phone
+TAG POS=4 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/drop-arrow.gif
+TAG POS=9 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=11 TYPE=IMG ATTR=SRC:http://webdesk.arnoldclark.co.uk/ServiceDesk.WebAccess/content/images/collapsed.gif
+TAG POS=1 TYPE=SPAN ATTR=TXT:Other<SP>issue<SP>not<SP>listed<SP>above
+TAG POS=1 TYPE=INPUT:BUTTON FORM=ID:mainForm ATTR=ID:mainForm-ApplyButton
+TAG POS=1 TYPE=LI ATTR=TXT:Assign<SP>To<SP>Me
+TAG POS=1 TYPE=LI ATTR=TXT:Resolve
+TAG POS=1 TYPE=TEXTAREA FORM=ID:mainForm ATTR=ID:mainForm-Description CONTENT=Unlocked<SP>users<SP>account<SP>using<SP>the<SP>ACE<SP>unlocked<SP>tool.<SP>
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ID:mainForm ATTR=ID:mainForm-SaveButton
